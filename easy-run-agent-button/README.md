@@ -1,1 +1,2 @@
-[![Open in Cloud Shell](https://gstatic.com/cloudssh/images/open-btn.svg)](https://shell.cloud.google.com/cloudshell/shell?cloudshell_git_repo=https%3A%2F%2Fgithub.com%2Fgalz10%2Fcontact-center-ai-samples%2F&cloudshell_git_branch=cloud-shell&cloudshell_workspace=easy-run-agent-button)
+[![Open in Cloud Shell](https://gstatic.com/cloudssh/images/open-btn.svg)](https://console.cloud.google.com/cloudshell/editor?cloudshell_git_branch=main&cloudshell_git_repo=https://github.com/galz10/contact-center-ai-samples.git&cloudshell_working_dir=easy-run-agent-button&shellonly=true)
+
