@@ -8,6 +8,11 @@
         "http2": false
     },
     "hooks": {
+        "prebuild":{
+            "commands":[
+                "rm -rf contact-center-ai-samples"
+            ]
+        },
         "postcreate": {
             "commands": [
                 "gcloud run services delete agent-easy-deployment --region $GOOGLE_CLOUD_REGION --project $GOOGLE_CLOUD_PROJECT --quiet"
