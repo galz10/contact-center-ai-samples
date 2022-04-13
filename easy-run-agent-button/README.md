@@ -1,1 +1,1 @@
-[![Import Dialogflow Agent](./button.svg)](https://deploy.cloud.run)
+[![Open in Cloud Shell](https://gstatic.com/cloudssh/images/open-btn.svg)](https://shell.cloud.google.com/cloudshell/editor?cloudshell_git_repo=https%3A%2F%2Fgithub.com%2Fgalz10%2Fcontact-center-ai-samples%2F&cloudshell_git_branch=cloudshell&cloudshell_open_in_editor=false)
