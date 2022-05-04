@@ -1,5 +1,10 @@
 {
     "name": "easy-agent-import",
+    "env": {
+        "TITLE": {
+            "description": "testing title"
+        }
+    },
     "options": {
         "allow-unauthenticated": true,
         "memory": "512Mi",
