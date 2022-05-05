@@ -11,7 +11,7 @@ with a single click.
 1. Copy & paste this markdown:
 
     ```text
-    [![Import Dialogflow Agent](./resources/button.svg)](https://deploy.cloud.run)
+    [![Import Dialogflow Agent](./resources/button.svg)](https://shell.cloud.google.com/cloudshell/editor?cloudshell_git_repo=https://github.com/galz10/contact-center-ai-samples.git&cloudshell_image=gcr.io/cloudrun/button&shellonly=true&workdir=easy-run-agent-button/import/)
     ```
 
 1. Copy the Dockerfile, app.json and the import folder over to your own repo. 
